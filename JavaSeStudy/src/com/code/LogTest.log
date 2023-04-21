@@ -1,0 +1,8 @@
+2023-03-29 21:46:23.011 [main] DEBUG LogbackSummarize.class - main方法开始执行了！！
+2023-03-29 21:46:23.012 [main] INFO  LogbackSummarize.class - 我开始记录第二行日志, 我要开始做除法~~~
+2023-03-29 21:46:23.017 [main] TRACE LogbackSummarize.class - a:10
+2023-03-29 21:46:23.018 [main] TRACE LogbackSummarize.class - b:2
+2023-03-29 21:46:46.884 [main] DEBUG LogbackSummarize.class - main方法开始执行了！！
+2023-03-29 21:46:46.885 [main] INFO  LogbackSummarize.class - 我开始记录第二行日志, 我要开始做除法~~~
+2023-03-29 21:46:46.888 [main] TRACE LogbackSummarize.class - a:10
+2023-03-29 21:46:46.888 [main] TRACE LogbackSummarize.class - b:2
